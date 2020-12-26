@@ -3,7 +3,9 @@ This repository is showing the steps to create lambda function for extracting th
 Steps:
 1. Create and activate the virtual environment named 'steeleye'. 
 >> virtualenv -p /usr/bin/python3.6 steeleye
+
 >> cd steeleye
+
 >> source bin/activate
 
 2. go to site-packages directory
