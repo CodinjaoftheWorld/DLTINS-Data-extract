@@ -41,4 +41,4 @@ After the successful import content of the zip file should be visible in the Env
 11. Deploy the function by clicking on the ‘Deploy’ button.
 
 12. Test the function by clicking on the ‘Test’ button.
-13. Once the test is successful, open the S3 bucket, access the 'tmp' directory within the S3 bucket, and download datafile.csv to get the records mentioned in the assignment. (datafile.csv file has 0.5 Million records). Data file is attached to the repository.
+13. Once the test is successful, open the S3 bucket, access the 'tmp' directory within the S3 bucket, and download datafile.csv to get the records mentioned in the assignment. (datafile.csv file has 0.5 Million records. Unzip datafile.zip file to access datafile.csv file).
