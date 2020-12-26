@@ -14,9 +14,9 @@ Steps:
 3. Install the requirements from requirements.txt
 >> pip install -r requirements.txt 
 
-4. Create a file lambda_fucntion.py in the current working directory and define your function in this file.
+4. Create a file lambda_fucntion.py in the current working directory and define your function in this file.(Unzip steeleyr.zip from this repository and use lambda_function.py file in your codes)
 
-5. Create a zip file named ‘lambda_function.py’ with the following directories/files in the same directory.
+5. Create a zip file named ‘lambda_function.zip’ with the following directories/files in the same directory.
 - certifi(dir)
 - chardet(dir)
 - _distutils_hack(dir)
